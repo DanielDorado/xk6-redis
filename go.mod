@@ -1,4 +1,4 @@
-module github.com/danieldorado/xk6-redis@latest
+module github.com/danieldorado/xk6-redis
 
 go 1.16
 
